@@ -2,21 +2,21 @@
 
 ## Contact
 
-*Address:* Turkey, Istanbul
-*Phone:* +7 (915) 851-21-65
-*E-mail:* Suvorovaa1AA@yandex.ru
-*Github:* Alexandra376
+- *Address:* Turkey, Istanbul
+- *Phone:* +7 (915) 851-21-65
+- *E-mail:* Suvorovaa1AA@yandex.ru
+- *Github:* Alexandra376
 
 ## Summary
 
-Iˆm Junior Front-end Developer. I'm a good team player and quick learner.
+I'm Junior Front-end Developer. I'm a good team player and quick learner.
 
 ## Skills 
 
-- HTML;
-- CSS/SASS;
-- JavaScript (Basic);
-- Git;
+- HTML
+- CSS/SASS
+- JavaScript (Basic)
+- Git
 
 ## Code Examples 
 
@@ -32,7 +32,7 @@ Bachelor of Economics: Economics and Finance - «RUSSIAN ACADEMY OF NATIONAL ECO
 
 ## Languages
 
-English - Advanced;
-German - B1;
+- English - Advanced
+- German - B1
 
 
