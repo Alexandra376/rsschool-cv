@@ -34,6 +34,5 @@ Bachelor of Economics: Economics and Finance - «RUSSIAN ACADEMY OF NATIONAL ECO
 
 - English - Advanced
 - German - B1
-- Russian
 
 
